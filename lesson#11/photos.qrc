@@ -1,0 +1,14 @@
+<RCC>
+  <qresource>
+    <file>photos/logo.png</file>
+    <file>photos/key-tool.png</file>
+    <file>photos/hide.png</file>
+    <file>photos/eye.png</file>
+    <file>photos/folder.png</file>
+    <file>photos/one.png</file>
+    <file>photos/two.png</file>
+    <file>photos/three.png</file>
+    <file>photos/four.png</file>
+    <file>photos/five.png</file>
+  </qresource>
+  </RCC>
